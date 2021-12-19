@@ -98,7 +98,7 @@ body {
 .home {
   position: relative;
   height: 100vh;
-  background: url(/img/home.png) 50%/cover no-repeat;
+  background: url(img/home.png) 50%/cover no-repeat;
 }
 .home__img {
   display: block;
@@ -183,7 +183,7 @@ body {
 .big-img {
   height: 98vh;
   margin-top: 98px;
-  background: url(/img/big\ img.png) 50%/cover no-repeat ;
+  background: url(img/big\ img.png) 50%/cover no-repeat ;
   display: flex;
   flex-direction: column;
   justify-content: center;
